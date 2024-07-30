@@ -91,7 +91,7 @@ strong {
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 40px;
+  font-size: 32px;
 }
 
 papertitle {
@@ -128,13 +128,4 @@ name {
 
 span.highlight {
   background-color: #ffffd0;
-}
-
-.shield-align img {
-    vertical-align: bottom; /* 或者使用其他值如 'text-bottom' */
-}
-
-.shield-container {
-    display: flex;
-    align-items: flex-end; /* 这将使得容器内的所有元素底部对齐 */
 }
