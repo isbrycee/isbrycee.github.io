@@ -133,3 +133,8 @@ span.highlight {
 .shield-align img {
     vertical-align: bottom; /* 或者使用其他值如 'text-bottom' */
 }
+
+.shield-container {
+    display: flex;
+    align-items: flex-end; /* 这将使得容器内的所有元素底部对齐 */
+}
