@@ -1,3 +1,3 @@
 ## Personal Home Page
 
-- [homepage](https://isbrycee.github.io/)
+- [homepage](https://isjinghao.github.io/)
